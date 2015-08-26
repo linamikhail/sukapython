@@ -2,6 +2,7 @@
 # Python Codes Example for Randomizing Items
 # No Copyright Necessary
 # Trademark Belongs to the Originator
+# Uses Python 3.4.3
 # Version 1.0
 # Date 26.AUGUST.2015
 
