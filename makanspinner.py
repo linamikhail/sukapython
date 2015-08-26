@@ -21,11 +21,11 @@ def twistdice():
     chooseFood = randint(0,3)
     chooseDrinks = randint(0,3)
     chooseLocation = randint(0,3)
-    print ("FOOD: ")
+    print ("FOOD:")
     print (FOOD[chooseFood])
-    print ("DRINKS: ")
+    print ("DRINKS:")
     print (DRINKS[chooseDrinks])
-    print ("LOCATION: ")
+    print ("LOCATION:")
     print (LOCATION[chooseLocation])
 
 while userinput != "Q":
